@@ -2,7 +2,7 @@ const River = require('../river');
 const Bear = require('../bear');
 const Fish = require('../fish');
 
-describe('bear', () =>{
+describe('fish', () =>{
   let fishOne;
   let fishTwo;
   let fishThree;
